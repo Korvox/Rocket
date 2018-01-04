@@ -16,7 +16,6 @@ members = [
   "examples/optional_redirect",
   "examples/redirect",
   "examples/static_files",
-  "examples/todo",
   "examples/content_types",
   "examples/ranking",
   "examples/testing",
